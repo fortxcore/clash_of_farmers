@@ -1,0 +1,32 @@
+{
+  "name": "geco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npm mix watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PasinduOshadha/geco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PasinduOshadha/geco/issues"
+  },
+  "homepage": "https://github.com/PasinduOshadha/geco#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "laravel-mix": "^6.0.43",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.51.0",
+    "sass-loader": "^12.1.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3",
+    "firebase": "^9.8.2"
+  }
+}
